@@ -1,0 +1,19 @@
+{
+    "name": "KatSound",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d874c015afd26d943ba88e05b25dd1fb",
+        "GUID:44a1b6a89a57f9546987428d2bf33114",
+        "GUID:ae164bc0c41dd7c40913ddb9b05000a0",
+        "GUID:e50890798f7e13044b040dccf11454e0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
